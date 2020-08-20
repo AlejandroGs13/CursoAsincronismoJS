@@ -1,0 +1,17 @@
+-------------- callback ------------------------------
+Ventajas
+*Garantizar que se ejecutara sin ningun problema
+* callback son universales
+
+Desventajas
+* composicion cosas anidadas 
+* callback hell
+* flujo poco intuitivo
+---------Promise------
+Ventajas:
+    * facil enlazable then().then()
+    * es poderoso gran capasidad de trabajar como asincronismo
+Desventajas:
+    * no maneja exepciones
+    * requiere un ser transformado para funcionar en todos los navegadores
+-------------- async await ---------
